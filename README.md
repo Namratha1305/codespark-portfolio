@@ -1,4 +1,5 @@
 **CodeSpark Hackathon: Dynamic Animated Portfolio**
+
 This project is a submission for the "HTML+CSS" challenge in the CodeSpark Hackathon. It is a modern, fully responsive, single-page portfolio website designed to showcase skills and projects with a strong emphasis on UI/UX, creativity, and advanced CSS animations.
 
 
