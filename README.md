@@ -70,12 +70,12 @@ My_Portfolio/
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-ml-portfolio.git
+   git clone https://github.com/yourusername/codespark-portfolio.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd ai-ml-portfolio
+   cd codespark-portfolio
    ```
 
 3. Open `index.html` in your web browser:
